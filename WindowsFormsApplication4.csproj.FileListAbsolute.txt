@@ -1,0 +1,41 @@
+C:\Users\MBC\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\MBC\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\MBC\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MBC\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Customer_Detail.resources
+C:\Users\MBC\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\MBC\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Menu.resources
+C:\Users\MBC\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Products_Detail.resources
+C:\Users\MBC\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\MBC\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Service.resources
+C:\Users\MBC\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Staff_Detail.resources
+C:\Users\MBC\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MBC\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MBC\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\MBC\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\MBC\Desktop\C#Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\MBC\Desktop\C#Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\MBC\Desktop\C#Project\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\MBC\Desktop\C#Project\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\MBC\Desktop\C#Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MBC\Desktop\C#Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Customer_Detail.resources
+C:\Users\MBC\Desktop\C#Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\MBC\Desktop\C#Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Menu.resources
+C:\Users\MBC\Desktop\C#Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Products_Detail.resources
+C:\Users\MBC\Desktop\C#Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\MBC\Desktop\C#Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Service.resources
+C:\Users\MBC\Desktop\C#Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Staff_Detail.resources
+C:\Users\MBC\Desktop\C#Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MBC\Desktop\C#Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\umeshika\Desktop\C#Project\System of Salon Stelata\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\umeshika\Desktop\C#Project\System of Salon Stelata\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\umeshika\Desktop\C#Project\System of Salon Stelata\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\umeshika\Desktop\C#Project\System of Salon Stelata\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\umeshika\Desktop\C#Project\System of Salon Stelata\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\umeshika\Desktop\C#Project\System of Salon Stelata\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Customer_Detail.resources
+C:\Users\umeshika\Desktop\C#Project\System of Salon Stelata\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\umeshika\Desktop\C#Project\System of Salon Stelata\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Menu.resources
+C:\Users\umeshika\Desktop\C#Project\System of Salon Stelata\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Products_Detail.resources
+C:\Users\umeshika\Desktop\C#Project\System of Salon Stelata\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\umeshika\Desktop\C#Project\System of Salon Stelata\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Service.resources
+C:\Users\umeshika\Desktop\C#Project\System of Salon Stelata\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Staff_Detail.resources
+C:\Users\umeshika\Desktop\C#Project\System of Salon Stelata\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
